@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/joerazor626/tau_robo_app/static/css/main.8fd43ec5.css",
+    "main.js": "/joerazor626/tau_robo_app/static/js/main.ff78aed0.js",
+    "static/js/787.dfbeba31.chunk.js": "/joerazor626/tau_robo_app/static/js/787.dfbeba31.chunk.js",
+    "index.html": "/joerazor626/tau_robo_app/index.html",
+    "main.8fd43ec5.css.map": "/joerazor626/tau_robo_app/static/css/main.8fd43ec5.css.map",
+    "main.ff78aed0.js.map": "/joerazor626/tau_robo_app/static/js/main.ff78aed0.js.map",
+    "787.dfbeba31.chunk.js.map": "/joerazor626/tau_robo_app/static/js/787.dfbeba31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fd43ec5.css",
+    "static/js/main.ff78aed0.js"
+  ]
+}
